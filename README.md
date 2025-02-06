@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mynhidwotz
 - 👀 I’m interested in vue, firebase, node, javascript
-- 🌱 I’m currently learning vue3 vuex
+- 🌱 I’m currently learning vue3 pinia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
